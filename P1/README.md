@@ -2,8 +2,7 @@
 
 
 
-##**Estudio documental: Análisis Competencia**
-
+##*Analisis de Competencia*
 El servicio que hemos elegido es Civitatis. Ya que es esta página es de las más conocidas en este sector,  ayudando así a hacer una mejor comparación con sus competidores.
 
 En cuanto a Civitatis es una web de estilo minimalista y se observa cómo funciones básicas, como un buscador, no las posee. En todas las actividades dispone de un mapa donde muestra claramente el punto de encuentro. Tienen muchos feedbacks en las actividades. Su mayor desventaja es que no se puede seleccionar el idioma de la actividad.
