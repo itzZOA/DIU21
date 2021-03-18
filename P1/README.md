@@ -14,8 +14,7 @@ GetYourGuide: Al meternos en la web se ve bastante sencilla y fácil pero nos co
 Walk in Granada: al verla nos damos cuenta de que es difícil encontrar las actividades en la página, hay poca variedad de actividades, no dispone de un buscador  ni tampoco se pueden seleccionar actividades por zonas.
 
 
-## ** 2 Personas **
-
+##**2 Personas**
 Estas dos personas poseen las características básicas de usuarios que usan frecuentemente este tipo de servicios. Entre sí, podemos observar que tienen perfiles bastante diferentes, tales como su ubicación geográfica y su lengua, pero a su vez tienen la misma necesidad o dificultad, la de encontrar una excursión en Granada. Además tienen habilidades de usuario diferentes, ya que Esteban está muy familiarizado con el móvil pero no tiene mucha idea de usar software nuevo, ni tampoco es muy amigo de las tecnologías, mientras que Diana está bastante más familiarizada con la tecnología.
 
 ! [](../img/Diana_Bio.png)
