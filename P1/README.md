@@ -33,6 +33,5 @@ Este busca una excursión por Granada para hacer con su mujer, hay muchas posibi
 
 
 
-###Revision de Usalibilidad
-
+### Revisión de Utilidad
 La nota calculada es bastante alta y por esto pensamos que no se penaliza tanto como se debería en las faltas de funcionalidad que se cometen. Creemos que la puntuación total se decide en bastante medida por la parte de diseño de la interfaz y no tanto por las funciones que ofrece. En nuestra opinión, la revisión de usabilidad acierta en el aspecto visual, ya que como mencionamos en algunos comentarios, el sitio está muy claro y es muy visual, ayudando así al usuario a que su uso sea muy amigable. El sitio lo hace bien con esto mencionado, con la tipografía y el tipo de letra usado, con el rendimiento del sitio, pero carece funciones tan básicas como tener un buscador, poder solicitar ayuda, tener enlaces externos a sitios de interés o como tener una explicación de cómo rellenar el formulario adecuadamente
