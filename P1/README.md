@@ -17,8 +17,8 @@ Walk in Granada: viendo la web nos damos cuenta de que es difícil encontrar las
 
 Estas dos personas poseen las características básicas de usuarios que usan frecuentemente este tipo de servicios. Entre sí, podemos observar que tienen perfiles bastante diferentes, tales como su ubicación geográfica y su lengua, pero a su vez tienen la misma necesidad o dificultad, la de encontrar una excursión en Granada. Además tienen habilidades de usuario diferentes, ya que Esteban está muy familiarizado con el móvil pero no tiene mucha idea de usar software nuevo, ni tampoco es muy amigo de las tecnologías, mientras que Diana está bastante más familiarizada con la tecnología.
 
-! [](../img/Diana_Bio.png)
-! [](../img/Esteban_Bio.png)
+![](../img/Diana_Bio.png)
+![](../img/Esteban_Bio.png)
 
 ###2 JourneyMaps (1 por persona)
 
