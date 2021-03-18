@@ -20,11 +20,9 @@ Estas dos personas poseen las características básicas de usuarios que usan fre
 ! [](../img/Diana_Bio.png)
 ! [](../img/Esteban_Bio.png)
 
-
 ###2 JourneyMaps (1 por persona)
 
-![](../img/Mapa_Diana)
-![](../img/Mapa_Esteban)
+![](../img/Mapa_Diana.png)
 
 Diana Fournier:
 Es una estudiante francesa que busca una actividad grupal en Granada para hacer con sus compañeras,  el problema que encuentra es que la gran mayoría de las actividades que hay no tienen la posibilidad de que sean en francés, las pocas que hay son muy caras, aunque finalmente reservan una de estas, el otro inconveniente que encuentran es que no se les devolvió el dinero correspondiente de la chica que no pudo ir porque estaba enferma.
