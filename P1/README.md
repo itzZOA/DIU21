@@ -20,7 +20,7 @@ Estas dos personas poseen las características básicas de usuarios que usan fre
 ![](../img/Diana_Bio.png)
 ![](../img/Esteban_Bio.png)
 
-###2 JourneyMaps (1 por persona)
+### 2 JourneyMaps (1 por persona)
 
 ![](../img/Mapa_Diana.png)
 ![](../img/Mapa_Esteban.png)
