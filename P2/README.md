@@ -34,8 +34,7 @@ Visualización de los participantes
 
 ## Labelling
 
-Puede consultar la información acerca del labelling en [este documento pdf](https://github.com/VictorRubia/DIU21/tree/master/P2/docs/labelling.pdf)
-
+Puede consultar la información acerca del labelling en [este documento pdf](https://github.com/itzZOA/DIU21/tree/master/P2/docs/labelling.pdf)
 
 ## Prototipo Lo-FI Wireframe 
 Inicio
