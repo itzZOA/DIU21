@@ -32,7 +32,7 @@ Para comenzar a desarrollar Mira2 elegimos varias aplicaciones que competían en
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Las plataformas que encontramos que compitiesen con Mira2 son Civitatis, GetYourGuide y Walk in Granada. Elegimos Civitatis porque es de los servicios más completos que hay para realizar actividades. Para obtener más información sobre la decisión clica [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#desk-research-an%C3%A1lisis-competencia)
+Las plataformas que encontramos que compitiesen con Mira2 son Civitatis, GetYourGuide y Walk in Granada. Elegimos Civitatis porque es de los servicios más completos que hay para realizar actividades. Para obtener más información sobre la decisión clica [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#analisis-de-competencia)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -42,7 +42,7 @@ Para poder identificar los posibles problemas que puedan tener las funcionalidad
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Escogimos dos experiencias de usuario que explotan bastantes funcionalidades de la plataforma para poder saber cuales son sus puntos débiles. Para ver los mapas de experiencia clica [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#2-user-journey-map---1-por-persona)
+Escogimos dos experiencias de usuario que explotan bastantes funcionalidades de la plataforma para poder saber cuales son sus puntos débiles. Para ver los mapas de experiencia clica [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#2-journeymaps-1-por-persona)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -51,7 +51,7 @@ Analizamos Civitatis a fondo para tener claros sus pros y sus contras, para sabe
 
 - Enlace al documento:  [aqui](https://github.com/itzZOA/DIU21/blob/master/P1/Usability-Review/Usability_Review.pdf)
 - Valoración final (numérica): 80/100
-- Comentario sobre la valoración:  Creemos que la puntuación total se decide en bastante medida por la parte de diseño de la interfaz y no tanto por las funciones que ofrece. Puede encontrar la valoración completa clicando [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#revisi%C3%B3n-de-usabilidad)
+- Comentario sobre la valoración:  Creemos que la puntuación total se decide en bastante medida por la parte de diseño de la interfaz y no tanto por las funciones que ofrece. Puede encontrar la valoración completa clicando [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#revisión-de-utilidad)
 
 ## Paso 2. UX Design  
 
@@ -61,9 +61,9 @@ Analizamos Civitatis a fondo para tener claros sus pros y sus contras, para sabe
 
 Hemos agrupado las características que hemos analizado en el apartado anterior, para organizar qué cosas queremos mantener, cuales queremos mejorar y cuales debemos añadir. 
 
-Para ver el capture grid pulsa [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#malla-receptora-de-informaci%C3%B3n)
+Para ver el capture grid pulsa [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#malla-receptora-de-información)
 
-Hemos encontrado 4 aspectos relevantes, basándonos en el capture grid, y en estos nos centraremos para realizar nuestra aplicación. Para ver más información sobre esto clica [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#malla-receptora-de-informaci%C3%B3n) 
+Hemos encontrado 4 aspectos relevantes, basándonos en el capture grid, y en estos nos centraremos para realizar nuestra aplicación. Para ver más información sobre esto clica [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#propuesta-de-valor) 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -74,7 +74,7 @@ Nuestro servicio se llama Mira2 e implementaremos funcionalidades que están rel
 - Visualización de los participantes en la actividad.
 - Sistema de información de medios de transporte.
 
-Para conocer más sobre la propuesta de valor y ver el LeanUXCanvas pulsa [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#propuesta-de-valor)
+Para conocer más sobre la propuesta de valor y ver el LeanUXCanvas pulsa [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#leanux-canvas)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
@@ -111,13 +111,13 @@ En cuanto a la iconografía, intentaremos mantener la iconografía que habíamos
 
 La información de iconografía, colores y tipografía se pueden consultar [aquí](https://github.com/itzZOA/DIU21/blob/master/P3/readme.md#diu---practica-3-entregables)
 
-El logotipo que hemos diseñado se compone de dos partes, la parte del icono diseñado por composición de imágenes de un ojo, de una bola del mundo y de un dibujo de la Alhambra. El logotipo se puede visualizar clicando [aquí](https://github.com/itzZOA/DIU21/blob/master/P3/readme.md#moodboard-dise%C3%B1o-visual--logotipo).
+El logotipo que hemos diseñado se compone de dos partes, la parte del icono diseñado por composición de imágenes de un ojo, de una bola del mundo y de un dibujo de la Alhambra. El logotipo se puede visualizar clicando [aquí](https://github.com/itzZOA/DIU21/blob/master/P3/readme.md#moodboard-diseño-visual--logotipo).
 
 Algunas imágenes que nos inspiran son, el reunirse con amigos para realizar actividades al aire libre, y la variedad paisajística que se puede disfrutar desde los distintos puntos de la ciudad de Granada.
 
 La composición de todos estos elementos se pueden observar en el moodboard.
 
-El moodboard se puede visualizar clicando [aquí](https://github.com/itzZOA/DIU21/tree/master/P3#moodboard-dise%C3%B1o-visual--logotipo)
+El moodboard se puede visualizar clicando [aquí](https://github.com/itzZOA/DIU21/tree/master/P3#moodboard-diseño-visual--logotipo)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
@@ -139,7 +139,7 @@ Los Mockup/prototipado y la simulación se pueden visualizar clicando [aquí](ht
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-Nuestra valoración como equipo sobre lo realizado en esta práctica y los problemas que han ido surgiendo se puede consultar clicando [aquí](https://github.com/itzZOA/DIU21/blob/master/P3/readme.md#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study)
+Nuestra valoración como equipo sobre lo realizado en esta práctica y los problemas que han ido surgiendo se puede consultar clicando [aquí](https://github.com/itzZOA/DIU21/blob/master/P3/readme.md#documentación-publicación-del-case-study)
 
 ## Paso 4. Evaluación 
 
@@ -206,3 +206,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+
+
+
