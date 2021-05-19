@@ -49,7 +49,7 @@ Escogimos dos experiencias de usuario que explotan bastantes funcionalidades de 
 
 Analizamos Civitatis a fondo para tener claros sus pros y sus contras, para saber concretamente cuales son sus puntos a mejorar. Hemos encontrado varios puntos débiles que nos ayudarán a mejorar nuestro diseño de una forma muy sencilla.
 
-- Enlace al documento:  [aqui](https://github.com/itzZOA/DIU21/blob/master/P1/Usability%20Review/Usability-review-template.xlsx%20-%20Usability%20scores-1-6.pdf)
+- Enlace al documento:  [aqui](https://github.com/itzZOA/DIU21/blob/master/P1/Usability-Review/Usability_Review.pdf)
 - Valoración final (numérica): 80/100
 - Comentario sobre la valoración:  Creemos que la puntuación total se decide en bastante medida por la parte de diseño de la interfaz y no tanto por las funciones que ofrece. Puede encontrar la valoración completa clicando [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#revisi%C3%B3n-de-usabilidad)
 
