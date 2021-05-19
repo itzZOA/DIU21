@@ -32,26 +32,26 @@ Para comenzar a desarrollar Mira2 elegimos varias aplicaciones que competían en
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Las plataformas que encontramos que compitiesen con Mira2 son Civitatis, GetYourGuide y Walk in Granada. Elegimos Civitatis porque es de los servicios más completos que hay para realizar actividades. Para obtener más información sobre la decisión clica [aqui](https://github.com/VictorRubia/DIU21/tree/master/P1#desk-research-an%C3%A1lisis-competencia)
+Las plataformas que encontramos que compitiesen con Mira2 son Civitatis, GetYourGuide y Walk in Granada. Elegimos Civitatis porque es de los servicios más completos que hay para realizar actividades. Para obtener más información sobre la decisión clica [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#desk-research-an%C3%A1lisis-competencia)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Para poder identificar los posibles problemas que puedan tener las funcionalidades de Sharee, hemos hecho uso de dos personas ficticias que tienen necesidades y situaciones muy distintas, para así lograr encontrar dificultades que pudiesen tener en Civitatis y con esto poder mejorarlas en Mira2. Elegimos a Diana y Esteban. Puedes obtener más información clicando [aqui](https://github.com/VictorRubia/DIU21/tree/master/P1#2-personas)
+Para poder identificar los posibles problemas que puedan tener las funcionalidades de Sharee, hemos hecho uso de dos personas ficticias que tienen necesidades y situaciones muy distintas, para así lograr encontrar dificultades que pudiesen tener en Civitatis y con esto poder mejorarlas en Mira2. Elegimos a Diana y Esteban. Puedes obtener más información clicando [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#2-personas)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Escogimos dos experiencias de usuario que explotan bastantes funcionalidades de la plataforma para poder saber cuales son sus puntos débiles. Para ver los mapas de experiencia clica [aqui](https://github.com/VictorRubia/DIU21/tree/master/P1#2-user-journey-map---1-por-persona)
+Escogimos dos experiencias de usuario que explotan bastantes funcionalidades de la plataforma para poder saber cuales son sus puntos débiles. Para ver los mapas de experiencia clica [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#2-user-journey-map---1-por-persona)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
 Analizamos Civitatis a fondo para tener claros sus pros y sus contras, para saber concretamente cuales son sus puntos a mejorar. Hemos encontrado varios puntos débiles que nos ayudarán a mejorar nuestro diseño de una forma muy sencilla.
 
-- Enlace al documento:  [aqui](https://github.com/VictorRubia/DIU21/blob/master/P1/Usability%20Review/Usability-review-template.xlsx%20-%20Usability%20scores-1-6.pdf)
+- Enlace al documento:  [aqui](https://github.com/itzZOA/DIU21/blob/master/P1/Usability%20Review/Usability-review-template.xlsx%20-%20Usability%20scores-1-6.pdf)
 - Valoración final (numérica): 80/100
-- Comentario sobre la valoración:  Creemos que la puntuación total se decide en bastante medida por la parte de diseño de la interfaz y no tanto por las funciones que ofrece. Puede encontrar la valoración completa clicando [aqui](https://github.com/VictorRubia/DIU21/tree/master/P1#revisi%C3%B3n-de-usabilidad)
+- Comentario sobre la valoración:  Creemos que la puntuación total se decide en bastante medida por la parte de diseño de la interfaz y no tanto por las funciones que ofrece. Puede encontrar la valoración completa clicando [aqui](https://github.com/itzZOA/DIU21/tree/master/P1#revisi%C3%B3n-de-usabilidad)
 
 ## Paso 2. UX Design  
 
@@ -61,9 +61,9 @@ Analizamos Civitatis a fondo para tener claros sus pros y sus contras, para sabe
 
 Hemos agrupado las características que hemos analizado en el apartado anterior, para organizar qué cosas queremos mantener, cuales queremos mejorar y cuales debemos añadir. 
 
-Para ver el capture grid pulsa [aquí](https://github.com/VictorRubia/DIU21/tree/master/P2#malla-receptora-de-informaci%C3%B3n)
+Para ver el capture grid pulsa [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#malla-receptora-de-informaci%C3%B3n)
 
-Hemos encontrado 4 aspectos relevantes, basándonos en el capture grid, y en estos nos centraremos para realizar nuestra aplicación. Para ver más información sobre esto clica [aquí](https://github.com/VictorRubia/DIU21/tree/master/P2#malla-receptora-de-informaci%C3%B3n) 
+Hemos encontrado 4 aspectos relevantes, basándonos en el capture grid, y en estos nos centraremos para realizar nuestra aplicación. Para ver más información sobre esto clica [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#malla-receptora-de-informaci%C3%B3n) 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -74,28 +74,28 @@ Nuestro servicio se llama Mira2 e implementaremos funcionalidades que están rel
 - Visualización de los participantes en la actividad.
 - Sistema de información de medios de transporte.
 
-Para conocer más sobre la propuesta de valor y ver el LeanUXCanvas pulsa [aquí](https://github.com/VictorRubia/DIU21/tree/master/P2#propuesta-de-valor)
+Para conocer más sobre la propuesta de valor y ver el LeanUXCanvas pulsa [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#propuesta-de-valor)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 Hemos diseñado los pasos a seguir para 3 de las funcionalidades que diferenciarán a nuestro servicio de sus competidores.
 Se pueden consultar en el siguiente enlace:
-- [Task Flows](https://github.com/VictorRubia/DIU21/tree/master/P2#usertask-flow)
+- [Task Flows](https://github.com/itzZOA/DIU21/tree/master/P2#usertask-flow)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 Para tener claro dónde situar cada característica en nuestra aplicación hemos desarrollado el Sitemap, antes de comenzar a realizar los primeros Wireframes. Teniendo un Sitemap es mucho más sencillo realizar los bocetos.
-- [Sitemap](https://github.com/VictorRubia/DIU21/tree/master/P2#sitemap)
+- [Sitemap](https://github.com/itzZOA/DIU21/tree/master/P2#sitemap)
 
-En cuanto al labelling del servicio, nos sirve para tener claro a qué nos referimos con cada término y cómo iba a ser su representación iconográfica en la aplicación. Estos iconos no tienen por qué coincidair con los de la versión final del servicio, sino servir como una guía para su representación. Puede encontrar el documento clicando [aquí](https://github.com/VictorRubia/DIU21/blob/master/P2/docs/labelling.pdf)
+En cuanto al labelling del servicio, nos sirve para tener claro a qué nos referimos con cada término y cómo iba a ser su representación iconográfica en la aplicación. Estos iconos no tienen por qué coincidair con los de la versión final del servicio, sino servir como una guía para su representación. Puede encontrar el documento clicando [aquí](https://github.com/itzZOA/DIU21/blob/master/P2/docs/labelling.pdf)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Para terminar esta parte, realizamos algunos bocetos de la aplicación, de acuerdo con el labelling y los taskflow que hemos realizado y respetando el mapa del sitio. Hemos diseñado los bocetos con un detalle medio-alto de las páginas principales. Para ver los bocetos clica [aquí](https://github.com/VictorRubia/DIU21/tree/master/P2#prototipo-lo-fi-wireframe)
+Para terminar esta parte, realizamos algunos bocetos de la aplicación, de acuerdo con el labelling y los taskflow que hemos realizado y respetando el mapa del sitio. Hemos diseñado los bocetos con un detalle medio-alto de las páginas principales. Para ver los bocetos clica [aquí](https://github.com/itzZOA/DIU21/tree/master/P2#prototipo-lo-fi-wireframe)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -109,37 +109,37 @@ En cuanto a la tipografía, hemos escogidos dos fuentes para nuestra aplicación
 En cuanto a los colores, nos hemos basado en las líneas de diseño de Google y hemos usado su herramienta.
 En cuanto a la iconografía, intentaremos mantener la iconografía que habíamos utilizado en el labelling de la práctica dos
 
-La información de iconografía, colores y tipografía se pueden consultar [aquí](https://github.com/VictorRubia/DIU21/blob/master/P3/readme.md#diu---practica-3-entregables)
+La información de iconografía, colores y tipografía se pueden consultar [aquí](https://github.com/itzZOA/DIU21/blob/master/P3/readme.md#diu---practica-3-entregables)
 
-El logotipo que hemos diseñado se compone de dos partes, la parte del icono diseñado por composición de imágenes de un ojo, de una bola del mundo y de un dibujo de la Alhambra. El logotipo se puede visualizar clicando [aquí](https://github.com/VictorRubia/DIU21/blob/master/P3/readme.md#moodboard-dise%C3%B1o-visual--logotipo).
+El logotipo que hemos diseñado se compone de dos partes, la parte del icono diseñado por composición de imágenes de un ojo, de una bola del mundo y de un dibujo de la Alhambra. El logotipo se puede visualizar clicando [aquí](https://github.com/itzZOA/DIU21/blob/master/P3/readme.md#moodboard-dise%C3%B1o-visual--logotipo).
 
 Algunas imágenes que nos inspiran son, el reunirse con amigos para realizar actividades al aire libre, y la variedad paisajística que se puede disfrutar desde los distintos puntos de la ciudad de Granada.
 
 La composición de todos estos elementos se pueden observar en el moodboard.
 
-El moodboard se puede visualizar clicando [aquí](https://github.com/VictorRubia/DIU21/tree/master/P3#moodboard-dise%C3%B1o-visual--logotipo)
+El moodboard se puede visualizar clicando [aquí](https://github.com/itzZOA/DIU21/tree/master/P3#moodboard-dise%C3%B1o-visual--logotipo)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-Se puede consultar el landing page [aquí](https://github.com/VictorRubia/DIU21/tree/master/P3#landing-page)
+Se puede consultar el landing page [aquí](https://github.com/itzZOA/DIU21/tree/master/P3#landing-page)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
 Los guidelines que usaremos son los de Material Design, realizados por Google.
-Para conocer más información sobre el guideline escogido pulsa [aquí](https://github.com/VictorRubia/DIU21/tree/master/P3#diu---practica-3-entregables)
+Para conocer más información sobre el guideline escogido pulsa [aquí](https://github.com/itzZOA/DIU21/tree/master/P3#diu---practica-3-entregables)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-Los Mockup/prototipado y la simulación se pueden visualizar clicando [aquí](https://github.com/VictorRubia/DIU21/tree/master/P3#mockup-layout-hi-fi)
+Los Mockup/prototipado y la simulación se pueden visualizar clicando [aquí](https://github.com/itzZOA/DIU21/tree/master/P3#mockup-layout-hi-fi)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-Nuestra valoración como equipo sobre lo realizado en esta práctica y los problemas que han ido surgiendo se puede consultar clicando [aquí](https://github.com/VictorRubia/DIU21/blob/master/P3/readme.md#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study)
+Nuestra valoración como equipo sobre lo realizado en esta práctica y los problemas que han ido surgiendo se puede consultar clicando [aquí](https://github.com/itzZOA/DIU21/blob/master/P3/readme.md#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study)
 
 ## Paso 4. Evaluación 
 
@@ -206,27 +206,3 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
