@@ -21,7 +21,7 @@
 
 ## Usability Report de Caso B
 
-En este [enlace](https://github.com/VictorRubia/DIU21/blob/master/P4/Usability%20Report.pdf) puede encontrar el Usability Report del Caso B.
+En este [enlace](https://github.com/itzZOA/DIU21/blob/master/P4/Usability%20Report.pdf) puede encontrar el Usability Report del Caso B.
 
 ## Conclusiones
 
