@@ -157,12 +157,13 @@ Nuestra valoración como equipo sobre lo realizado en esta práctica y los probl
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad | Ocupación  | Exp.TIC    | Personalidad          | Plataforma | TestA/B |
+| -------- | --------- | ---------- | ---------- | --------------------- | ---------- | ------- |
+| 1        | H / 34    | Bombero    | Media      | Atletico/Activo       | Web        | A       |
+| 2        | M / 22    | Estudiante | Avanzada   | Soñadora/Introvertida | Móvil      | A       |
+| 3        | H / 56    | Pescadero  | Baja       | Familiar/Trabajador   | Web        | B       |
+| 4        | M / 41    | Enfermera  | Baja/Media | Extrovertida/Racional | Móvil      | B       |
+
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -174,13 +175,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
+![Imagen1](https://user-images.githubusercontent.com/33348803/119672793-2a7b3e80-be3b-11eb-9dd5-212043df8344.png)
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
-
+En este [enlace](https://github.com/itzZOA/DIU21/blob/master/P4/Usability%20Report.pdf) puede encontrar el Usability Report del Caso B.
 
 >>> Valoración personal 
 
