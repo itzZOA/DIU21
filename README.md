@@ -186,6 +186,11 @@ En este [enlace](https://github.com/itzZOA/DIU21/blob/master/P4/Usability%20Repo
 
 >>> Valoración personal 
 
+En general la web es increíble, tiene muchas funcionalidades y es muy completa, tal vez para gente joven con nosotros sea bastante intuitiva y facil de utilizar, pero creemos que para gente que no tenga tanta experiencia con las TIC es bastante liosa por eso en nuestros Cuestionarios SUS nos han salido relativamente bajas las puntuaciones comparado con la que le hemos dado nosotros al trabajo.
+
+Estéticamente es muy atractiva, no daña a la vista y tiene elementos importantes diferenciados con distintos colores, y se ha utilizado una gama buena de colores. Las imagenes estan bien centradas llamando la atención del usuario.
+
+Todo está bastante bien no solo de la web, si no del trabajo, esta bien explicado y tienen todo lo que se pedía en las anteriores prácticas, lo único a mejorar cuatro cosillas explicadas en las recomendaciones.
 
 ## Paso 5. Evaluación de Accesibilidad  
 
